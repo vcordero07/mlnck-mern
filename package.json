@@ -1,0 +1,23 @@
+{
+  "name": "mlnck-mern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-preset-env": "^1.6.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vcordero07/mlnck-mern.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vcordero07/mlnck-mern/issues"
+  },
+  "homepage": "https://github.com/vcordero07/mlnck-mern#readme"
+}
